@@ -9,4 +9,5 @@ Circuit Design:
 ![Music Reactive LED Strip_bb](https://user-images.githubusercontent.com/57200368/157284925-0af5eaf5-ca64-474e-9b86-a2c7abb5d211.png)
 
 Other Information:
+
 This project was done in Summer 2019 at the BlueStamp Engineering Program. The project introduced me to software, electrical, and mechanical engineering and helped me become proficient in C++ and Arduino programming, circuit design and construction, and soldering. 
